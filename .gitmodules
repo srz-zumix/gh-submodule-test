@@ -1,0 +1,3 @@
+[submodule "gh-csharp-template"]
+	path = gh-csharp-template
+	url = ../../srz-zumix/gh-csharp-template.git
